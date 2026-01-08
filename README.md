@@ -1,6 +1,6 @@
 
 
-# 🦜 LangChain YouTube & Website Summarizer (Groq + Streamlit)
+# 🦜 LangChain YouTube & Website Summarizer (Groq + Streamlit) [Website](https://youtube-video-and-website-url-content-summarization.streamlit.app/)
 
 An AI-powered Streamlit application that summarizes **YouTube videos** and **web articles** using **LangChain** and **Groq LLMs**.
 The app automatically extracts content, chunks large text using a **map-reduce summarization pipeline**, and generates concise, structured summaries.
