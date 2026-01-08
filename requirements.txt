@@ -1,0 +1,11 @@
+streamlit 
+validators 
+langchain 
+langchain-community 
+langchain-classic 
+langchain-groq 
+youtube-transcript-api 
+unstructured 
+requests
+beautifulsoup4 
+lxml
