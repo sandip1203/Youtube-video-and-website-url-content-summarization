@@ -7,6 +7,7 @@ The app automatically extracts content, chunks large text using a **map-reduce s
 
 > 🚀 Designed for long videos, research articles, blogs, and documentation.
 
+![website](./website.gif)
 ---
 
 ## ✨ Features
